@@ -12,8 +12,7 @@
 ### About Me
 
 
-I'm a Computer Engineering undergrad at Wright State University (expected Dec 2027), with an Associate Degree in Computer Science from Sinclair Community College. I build embedded systems, write firmware, and design digital logic — and I also own and operate **Eastown Wireless**, a phone repair and electronics business in Dayton, OH.
-
+I'm a Computer Engineering undergrad at Wright State University (expected Dec 2027), with an Associate Degree in Computer Science from Sinclair Community College. I build embedded systems, write firmware, and design digital logic.
 That combination is what I bring to a team: I can write the code and design the circuit, but I also know what it means to ship something real, support customers, and be accountable for outcomes. Running a business taught me the parts of engineering that a classroom doesn't — budgeting, reliability under pressure, and owning problems until they're actually solved.
 
 - 🎓 B.S. Computer Engineering, Wright State University (Jan 2026 – Dec 2027)
