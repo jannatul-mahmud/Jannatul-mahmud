@@ -19,7 +19,6 @@ That combination is what I bring to a team: I can write the code and design the 
 - 🎓 A.S. Computer Science, Sinclair Community College
 - 🏆 Code in Place Certificate — Stanford University
 - 🛠️ Currently building: an ESP32-S3 ultrasonic traffic-light controller, validated in SUMO traffic simulation
-- 📈 Currently running: Eastown Wireless, a phone repair & accessories shop in Dayton, OH
 - 🌱 Currently exploring: graduate programs in Computer Engineering / Embedded Systems
 
 ---
